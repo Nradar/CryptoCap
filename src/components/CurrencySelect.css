@@ -1,0 +1,17 @@
+/* .custom-select {
+  max-width: 200px;
+  margin: auto;
+  background-color: aqua;
+} */
+
+.select-container {
+  margin: auto;
+  margin-bottom: 20px;
+  min-width: 160px;
+  padding: 10px;
+  border: 2px solid rgb(185, 185, 185);
+  border-radius: 3px;
+  background: #fff;
+  text-align-last: center;
+  font-size: 20px;
+}

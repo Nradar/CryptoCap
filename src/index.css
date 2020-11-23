@@ -1,0 +1,33 @@
+.head-bar {
+  margin-bottom: 50px;
+}
+
+#root {
+  margin-bottom: 80px;
+}
+
+.project-name {
+  color: #fff;
+  margin: auto;
+  margin-right: 20px;
+}
+
+.brand-name {
+  font-size: 30px;
+}
+
+nav.foot-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.foot-text {
+  color: #fff;
+  font-size: medium;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

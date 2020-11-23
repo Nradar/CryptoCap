@@ -1,2 +1,7 @@
-# CryptoCap
-A responsive web to display top 10 crypto cap in market
+# Crypto Cap
+
+This project was built with react, bootstrap to display Top 10 Crypto Currency in real time
+
+# Author
+
+Tiancheng Zhao

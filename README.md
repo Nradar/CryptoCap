@@ -19,7 +19,7 @@ $ npm --version
 $ git clone https://github.com/Nradar/CryptoCap.git
 $ cd CryptoCap
 $ npm install
-$ npm run
+$ npm run start
 ```
 Open http://localhost:3000/ in your favourite browser
 
